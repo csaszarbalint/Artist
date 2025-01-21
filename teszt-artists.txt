@@ -1,0 +1,36 @@
+1. Mit jelent az "encapsulation" (adatrejtés)?
+ a, Az összes adat nyilvánossá tétele.
+ b, Az adatok és metódusok logikai csoportosítása.
+ c, Az adatok közvetlen hozzáférésének megakadályozása.
+ d, Az osztály privát tagjainak exportálása.
+
+2. Mit használ a bináris keresés?
+ a, Sorozatos vizsgálatot.
+ b, Középről való osztott keresést.
+ c, A legkisebb elemre koncentrál.
+ d, Csak karakterekkel működik.
+
+3. Hogyan biztosít a C# többalakúságot (polimorfizmust)?
+ a, Csak a metódusok túlterhelésével.
+ b, Csak a metódusok felüldefiniálásával.
+ c, Metódusok túlterhelésével és felüldefiniálásával.
+ d, Csak az osztályok másolásával.
+
+4. Mi az öröklődés célja?
+ a, Az objektumok metódusainak védelme.
+ b, Kód újrafelhasználása és specializáció létrehozása.
+ c, Csak a privát tagok láthatóságának biztosítása.
+ d, Az osztályok másolatainak készítése.
+
+5. Hogyan valósítható meg lineáris keresés?
+ a, Az elemek sorozatos összeadása.
+ b, Az elemek sorozatos vizsgálata.
+ c, Az elemek páros összehasonlítása.
+ d, Csak rendezett halmazban működik.
+
+6. Mi az összegezés algoritmus célja?
+ a, Egy halmaz legkisebb elemének keresése.
+ b, Egy halmaz legnagyobb elemének keresése.
+ c, Az elemek összegének kiszámítása.
+ d, Az elemek szorzatának kiszámítása.
+

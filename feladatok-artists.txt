@@ -1,0 +1,28 @@
+Nevezd át a solution és projekt fájlokat!
+
+1. CSV fájl
+    - Vedd fel a projektbe a csv fájlt (1p)
+    - állitsd be, hogy mindig a kimeneti mappába kerüljön! (1p)
+
+2. A MyClass osztályt nevezd át és egészítsd ki a CSV fájl alapján. (3p)
+Az Adatok mező a következő adatokbó áll:
+ - Albumok,
+ - Eladások (millió),
+ - Díjak száma
+
+3. Olvasd be a csv fájlt (2p)
+
+4. Töltsd fel a _instances listát a MyClass osztály példányaiból (2p)
+
+Oldd meg a feladatok.txt pontjait LINQ kifejezésekkel! (8p)
+
+5. Melyik a legtöbb albummal rendelkező előadó? (2p)
+
+6. Mennyi az átlagos eladás? (2p)
+
+7. Hozz létre egy adatstruktúrát, amely az előadók alábbi 3 kategóriáját tartalmazza:
+    - csicska: eladások < 200
+    - basic: 200 < eladások > 400
+    - goat: eladások > 400
+
+8. Hozz létre egy rendezett listát az InsertSort segítségével az eladás/album arány szerint! (4p)
